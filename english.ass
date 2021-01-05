@@ -1,0 +1,304 @@
+﻿[Script Info]
+Title: Erai-raws
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,25,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.62,0:00:16.08,Default,,0,0,0,,{\clip(150,44,172,130)\bord0.4\fnOpen Sans Light\b0\3c&HFFFFFF&\u1\pos(295,90)\t(0,42,\clip(150,44,442,126))}JANUARY 13, 2096
+Dialogue: 0,0:00:37.37,0:00:39.66,Default,,0,0,0,,Another incompatible one?
+Dialogue: 0,0:00:39.66,0:00:41.16,Default,,0,0,0,,No good.
+Dialogue: 0,0:00:41.16,0:00:43.70,Default,,0,0,0,,This time, after implanting the copy,
+Dialogue: 0,0:00:43.70,0:00:47.12,Default,,0,0,0,,I tried completely blocking the connection.
+Dialogue: 0,0:00:47.12,0:00:48.58,Default,,0,0,0,,However, like with the others,
+Dialogue: 0,0:00:48.58,0:00:50.66,Default,,0,0,0,,it absorbed Psions from the sample's blood,
+Dialogue: 0,0:00:50.66,0:00:55.08,Default,,0,0,0,,but then returned instead\Nof remaining stable inside.
+Dialogue: 0,0:00:55.08,0:00:58.04,Default,,0,0,0,,Then, even with the right attributes,\Nif they lack strong desires,
+Dialogue: 0,0:00:58.04,0:01:00.99,Default,,0,0,0,,they can't become like us.
+Dialogue: 0,0:01:00.99,0:01:04.41,Default,,0,0,0,,Are there people who have no desires?
+Dialogue: 0,0:01:04.41,0:01:07.62,Default,,0,0,0,,Are you saying there's another factor?
+Dialogue: 0,0:01:07.62,0:01:12.41,Default,,0,0,0,,We need more samples\Nto get to the bottom of that.
+Dialogue: 0,0:02:44.74,0:02:46.41,Default,,0,0,0,,Bizarre murder incident?
+Dialogue: 0,0:02:46.41,0:02:48.79,Default,,0,0,0,,I hear the bodies are drained of blood.
+Dialogue: 0,0:02:48.79,0:02:51.33,Default,,0,0,0,,Are we sure they weren't just anemic?
+Dialogue: 0,0:02:52.95,0:02:56.04,Default,,0,0,0,,It's rare to see you yawn, Leo.
+Dialogue: 0,0:02:56.04,0:03:00.20,Default,,0,0,0,,Yeah, I was up late last night.
+Dialogue: 0,0:03:00.20,0:03:01.99,Default,,0,0,0,,Hey, Tatsuya!
+Dialogue: 0,0:03:03.24,0:03:05.37,Default,,0,0,0,,Did you see the news yesterday?
+Dialogue: 0,0:03:05.37,0:03:07.58,Default,,0,0,0,,News? About the vampire?
+Dialogue: 0,0:03:07.58,0:03:10.58,Default,,0,0,0,,Yeah. I think it's a\Nprofessional crime organization
+Dialogue: 0,0:03:10.58,0:03:14.95,Default,,0,0,0,,of blood traffickers instead\Nof organ traffickers.
+Dialogue: 0,0:03:14.95,0:03:19.08,Default,,0,0,0,,10% of the victims' blood is gone, right?
+Dialogue: 0,0:03:19.08,0:03:23.49,Default,,0,0,0,,My question is why is only 10% taken?
+Dialogue: 0,0:03:23.49,0:03:25.74,Default,,0,0,0,,Murder probably isn't the intention.
+Dialogue: 0,0:03:25.74,0:03:30.24,Default,,0,0,0,,They most likely want to keep the victims alive\Nand use them as blood factories.
+Dialogue: 0,0:03:30.24,0:03:34.49,Default,,0,0,0,,If that's the case, they wouldn't\Nhave abandoned the bodies in town.
+Dialogue: 0,0:03:34.49,0:03:38.54,Default,,0,0,0,,Besides, there are no wounds on any\Nof the bodies where blood was taken from.
+Dialogue: 0,0:03:42.54,0:03:43.70,Default,,0,0,0,,I see.
+Dialogue: 0,0:03:43.70,0:03:47.41,Default,,0,0,0,,You're right. It is strange\Nthat the bodies have no marks like that.
+Dialogue: 0,0:03:47.41,0:03:53.24,Default,,0,0,0,,Maybe an occult being did it\Nlike they're saying on TV.
+Dialogue: 0,0:03:53.24,0:03:56.08,Default,,0,0,0,,An occult being...
+Dialogue: 0,0:03:56.08,0:03:57.24,Default,,0,0,0,,Mikihiko...
+Dialogue: 0,0:03:57.24,0:04:02.37,Default,,0,0,0,,Do you think a supernatural creature\Nor some kind of monster is responsible?
+Dialogue: 0,0:04:03.29,0:04:08.41,Default,,0,0,0,,I don't believe a normal human\Nis behind it, but I can't rule it out.
+Dialogue: 0,0:04:08.41,0:04:10.20,Default,,0,0,0,,Speaking of the occult,
+Dialogue: 0,0:04:10.20,0:04:14.87,Default,,0,0,0,,that's what magic was considered\Nto be until just 100 years ago.
+Dialogue: 0,0:04:14.87,0:04:19.24,Default,,0,0,0,,Tatsuya, do you think a magician\Nis committing these crimes?
+Dialogue: 0,0:04:19.24,0:04:21.66,Default,,0,0,0,,We can't discount that possibility, either.
+Dialogue: 0,0:04:21.66,0:04:23.20,Default,,0,0,0,,Please not that.
+Dialogue: 0,0:04:23.20,0:04:28.37,Default,,0,0,0,,Like with the humanists, there's this\Ntrending idea to expunge magicians from society,
+Dialogue: 0,0:04:28.37,0:04:30.99,Default,,0,0,0,,and I don't want it to gain any popularity.
+Dialogue: 0,0:04:36.49,0:04:39.62,Default,,0,0,0,,I don't see Lina here.
+Dialogue: 0,0:04:39.62,0:04:41.62,Default,,0,0,0,,No, Brother.
+Dialogue: 0,0:04:41.62,0:04:47.79,Default,,0,0,0,,She had some emergency at home,\Nso she's absent today.
+Dialogue: 0,0:04:47.79,0:04:49.91,Default,,0,0,0,,That reminds me...
+Dialogue: 0,0:04:49.91,0:04:52.45,Default,,0,0,0,,I wonder how Shizuku is doing.
+Dialogue: 0,0:04:52.45,0:04:53.83,Default,,0,0,0,,Well...
+Dialogue: 0,0:04:53.83,0:04:56.70,Default,,0,0,0,,I talked to her on the phone\Nagain for a bit last night...
+Dialogue: 0,0:04:56.70,0:05:01.49,Default,,0,0,0,,And she was surprised\Nby the vampire serial murder news, too.
+Dialogue: 0,0:05:01.49,0:05:06.20,Default,,0,0,0,,She said something similar\Nis happening in America, too.
+Dialogue: 0,0:05:06.70,0:05:08.45,Default,,0,0,0,,Really?
+Dialogue: 0,0:05:08.45,0:05:15.70,Default,,0,0,0,,Yeah. Not on the West Coast where Shizuku is,\Nbut in the Dallas area, in the Southwest.
+Dialogue: 0,0:05:15.70,0:05:18.29,Default,,0,0,0,,That's the first I've heard of it.
+Dialogue: 0,0:05:18.29,0:05:23.20,Default,,0,0,0,,She didn't see it on the news.\NAnother exchange student told her about it.
+Dialogue: 0,0:05:23.20,0:05:24.74,Default,,0,0,0,,Oh, I see.
+Dialogue: 0,0:05:26.39,0:05:28.29,Default,,0,0,0,,{\clip(150,44,172,130)\bord0.4\fnOpen Sans Light\b0\3c&HFFFFFF&\u1\pos(295,90)\t(0,42,\clip(150,44,442,126))}JANUARY 15, 2096
+Dialogue: 0,0:05:37.49,0:05:38.87,Default,,0,0,0,,Silvia here.
+Dialogue: 0,0:05:38.87,0:05:41.91,Default,,0,0,0,,Hunter Q, Hunter R, report.
+Dialogue: 0,0:05:41.91,0:05:45.16,Default,,0,0,0,,Currently tracking,\Nheading toward West Shibuya.
+Dialogue: 0,0:05:45.16,0:05:47.41,Default,,0,0,0,,Hold on. I'm picking up a response.
+Dialogue: 0,0:05:47.87,0:05:52.20,Default,,0,0,0,,The subject is in an empty lot\N500 meters ahead of you.
+Dialogue: 0,0:05:52.20,0:05:54.74,Default,,0,0,0,,I'm showing one person.\NUse the pincer movement.
+Dialogue: 0,0:05:54.74,0:05:56.45,Default,,0,0,0,,Roger.
+Dialogue: 0,0:05:56.45,0:05:57.83,Default,,0,0,0,,I'll take the right.
+Dialogue: 0,0:05:57.83,0:05:59.08,Default,,0,0,0,,Roger.
+Dialogue: 0,0:06:04.16,0:06:06.41,Default,,0,0,0,,The military pursuit team is closing in.
+Dialogue: 0,0:06:06.41,0:06:08.49,Default,,0,0,0,,I know.
+Dialogue: 0,0:06:08.49,0:06:13.45,Default,,0,0,0,,Just two Stardust members.\NThey're taking me lightly.
+Dialogue: 0,0:06:13.45,0:06:16.62,Default,,0,0,0,,That's because they only know\Nyour previous self.
+Dialogue: 0,0:06:16.62,0:06:18.08,Default,,0,0,0,,That makes sense.
+Dialogue: 0,0:06:18.08,0:06:21.87,Default,,0,0,0,,If they only know me\Nas a Satellite-Class magician,
+Dialogue: 0,0:06:21.87,0:06:25.54,Default,,0,0,0,,then I can imagine\Nwhat they're going to try with me.
+Dialogue: 0,0:06:25.54,0:06:27.70,Default,,0,0,0,,I don't need any backup.
+Dialogue: 0,0:06:30.41,0:06:32.24,Default,,0,0,0,,Deimos Second, wanted deserter...
+Dialogue: 0,0:06:32.24,0:06:34.95,Default,,0,0,0,,Put your hands up\Nwith your fingers apart.
+Dialogue: 0,0:06:37.99,0:06:41.91,Default,,0,0,0,,We were told to eliminate you\Nas soon as we found you.
+Dialogue: 0,0:06:41.91,0:06:45.29,Default,,0,0,0,,But we are authorized to bring you in\Nwith a lower punishment by one degree
+Dialogue: 0,0:06:45.29,0:06:47.79,Default,,0,0,0,,if you provide us information\Non the other fugitives.
+Dialogue: 0,0:06:51.95,0:06:54.58,Default,,0,0,0,,We'll give you ten seconds\Nto think about it.
+Dialogue: 0,0:06:54.58,0:06:56.49,Default,,0,0,0,,No, that isn't necessary.
+Dialogue: 0,0:06:57.95,0:07:00.79,Default,,0,0,0,,You two cannot kill me.
+Dialogue: 0,0:07:05.29,0:07:07.62,Default,,0,0,0,,Trajectory Distortion Spell?
+Dialogue: 0,0:07:07.62,0:07:10.20,Default,,0,0,0,,The Cast Jammer isn't working?
+Dialogue: 0,0:07:10.20,0:07:15.91,Default,,0,0,0,,Well, there's nothing wrong\Nwith the Cast Jammer. It's just that...
+Dialogue: 0,0:07:15.91,0:07:20.37,Default,,0,0,0,,I no longer need a CAD.
+Dialogue: 0,0:07:32.29,0:07:34.79,Default,,0,0,0,,You can change\Nthe trajectory of my knife?
+Dialogue: 0,0:07:34.79,0:07:38.04,Default,,0,0,0,,How can you use\Npowerful magic like that?
+Dialogue: 0,0:07:38.04,0:07:42.41,Default,,0,0,0,,You can't fathom it?\NI'm not the man I was before.
+Dialogue: 0,0:07:42.41,0:07:43.95,Default,,0,0,0,,Bull!
+Dialogue: 0,0:07:59.70,0:08:01.54,Default,,0,0,0,,Die!
+Dialogue: 0,0:08:08.08,0:08:11.29,Default,,0,0,0,,Vector Reflection Spell? This strength...
+Dialogue: 0,0:08:11.29,0:08:13.45,Default,,0,0,0,,Angie Sirius?
+Dialogue: 0,0:08:28.41,0:08:30.91,Default,,0,0,0,,This Psionic wave pattern...
+Dialogue: 0,0:08:42.83,0:08:44.79,Default,,0,0,0,,Hey, are you okay?
+Dialogue: 0,0:08:56.74,0:08:59.41,Default,,0,0,0,,That hurt!
+Dialogue: 0,0:08:59.41,0:09:02.20,Default,,0,0,0,,Are you wearing carbon armor\Nunder that coat?
+Dialogue: 0,0:09:02.20,0:09:04.16,Default,,0,0,0,,Makes all the difference.
+Dialogue: 0,0:09:06.79,0:09:09.04,Default,,0,0,0,,Panzer!
+Dialogue: 0,0:09:22.91,0:09:26.04,Default,,0,0,0,,What the... I'm losing my strength...
+Dialogue: 0,0:09:28.33,0:09:31.79,Default,,0,0,0,,Dammit! Take this!
+Dialogue: 0,0:09:38.74,0:09:42.08,Default,,0,0,0,,That one punch was effective.
+Dialogue: 0,0:09:42.08,0:09:43.95,Default,,0,0,0,,But...
+Dialogue: 0,0:09:43.95,0:09:46.79,Default,,0,0,0,,it wasn't a decisive blow.
+Dialogue: 0,0:10:10.99,0:10:14.37,Default,,0,0,0,,Caster Jamming? No, this is...
+Dialogue: 0,0:10:15.16,0:10:17.66,Default,,0,0,0,,Major, what's wrong?
+Dialogue: 0,0:10:21.45,0:10:24.33,Default,,0,0,0,,I lost sight of the subject.
+Dialogue: 0,0:10:42.08,0:10:43.08,Default,,0,0,0,,{\an8}"VISITOR ARC II"
+Dialogue: 0,0:10:44.16,0:10:46.58,Default,,0,0,0,,{\clip(150,44,172,130)\bord0.4\fnOpen Sans Light\b0\3c&HFFFFFF&\u1\pos(295,90)\t(0,42,\clip(150,44,442,126))}JANUARY 16, 2096
+Dialogue: 0,0:10:49.83,0:10:52.12,Default,,0,0,0,,Everyone got here early, huh?
+Dialogue: 0,0:10:52.12,0:10:55.16,Default,,0,0,0,,You guys saw me at my lamest.
+Dialogue: 0,0:10:55.16,0:10:57.41,Default,,0,0,0,,You were put through the wringer.
+Dialogue: 0,0:10:57.41,0:11:00.45,Default,,0,0,0,,I mean, you don't look physically injured...
+Dialogue: 0,0:11:00.45,0:11:02.79,Default,,0,0,0,,so what happened?
+Dialogue: 0,0:11:02.79,0:11:06.54,Default,,0,0,0,,I don't really know.
+Dialogue: 0,0:11:06.54,0:11:11.83,Default,,0,0,0,,We were slugging it out, and then,\Nall of a sudden, I was weak as a kitten.
+Dialogue: 0,0:11:11.83,0:11:18.20,Default,,0,0,0,,Luckily, Erika's big brother, the police chief,\Nfound me passed out on the ground.
+Dialogue: 0,0:11:18.20,0:11:21.62,Default,,0,0,0,,And you weren't poisoned, right?
+Dialogue: 0,0:11:21.62,0:11:25.33,Default,,0,0,0,,Nope. The blood test came back negative.
+Dialogue: 0,0:11:25.33,0:11:27.74,Default,,0,0,0,,Did you get a good look\Nat your opponent?
+Dialogue: 0,0:11:28.45,0:11:31.83,Default,,0,0,0,,I saw, but I wouldn't say\NI got a good look.
+Dialogue: 0,0:11:31.83,0:11:35.24,Default,,0,0,0,,There was a hat pulled down low,\Na totally white mask, a long coat,
+Dialogue: 0,0:11:35.24,0:11:38.99,Default,,0,0,0,,and under that, hardened body armor.
+Dialogue: 0,0:11:38.99,0:11:42.62,Default,,0,0,0,,So, I can't tell you anything\Nabout looks or body type.
+Dialogue: 0,0:11:42.62,0:11:43.83,Default,,0,0,0,,Except...
+Dialogue: 0,0:11:43.83,0:11:46.12,Default,,0,0,0,,I had a feeling it was a woman.
+Dialogue: 0,0:11:46.12,0:11:50.29,Default,,0,0,0,,A woman held her own\Nagainst you in a fistfight?
+Dialogue: 0,0:11:50.29,0:11:52.49,Default,,0,0,0,,Well, it's not like that's impossible.
+Dialogue: 0,0:11:52.49,0:11:57.62,Default,,0,0,0,,Even an elementary school girl could strangle\Na big man to death if she drugged him first.
+Dialogue: 0,0:11:57.62,0:11:59.12,Default,,0,0,0,,True.
+Dialogue: 0,0:11:59.12,0:12:04.33,Default,,0,0,0,,But it's also possible\Nthat she wasn't a normal human.
+Dialogue: 0,0:12:04.33,0:12:07.12,Default,,0,0,0,,Do you know something about it?
+Dialogue: 0,0:12:08.99,0:12:13.16,Default,,0,0,0,,I think Leo ran into a parasite.
+Dialogue: 0,0:12:14.91,0:12:18.29,Default,,0,0,0,,Parasite... Like a worm?
+Dialogue: 0,0:12:18.29,0:12:22.08,Default,,0,0,0,,Paranormal parasite. A supernatural bug.
+Dialogue: 0,0:12:22.08,0:12:24.45,Default,,0,0,0,,Or just "parasite" for short.
+Dialogue: 0,0:12:24.45,0:12:28.24,Default,,0,0,0,,Specter, evil spirit, jinn, demon...
+Dialogue: 0,0:12:28.24,0:12:32.79,Default,,0,0,0,,Things that are ascribed various notions in\Ncountries all over the world, but essentially,
+Dialogue: 0,0:12:32.79,0:12:35.54,Default,,0,0,0,,they're things with magical\Nproperties that latch on to people
+Dialogue: 0,0:12:35.54,0:12:38.24,Default,,0,0,0,,and turn them into something\Nother than human.
+Dialogue: 0,0:12:38.24,0:12:41.20,Default,,0,0,0,,Is that what a vampire really is?
+Dialogue: 0,0:12:42.74,0:12:43.99,Default,,0,0,0,,Leo...
+Dialogue: 0,0:12:43.99,0:12:45.08,Default,,0,0,0,,Yeah?
+Dialogue: 0,0:12:45.08,0:12:48.83,Default,,0,0,0,,Can I take a look at your ethereal body?
+Dialogue: 0,0:12:48.83,0:12:50.16,Default,,0,0,0,,Ethereal body?
+Dialogue: 0,0:12:50.16,0:12:54.49,Default,,0,0,0,,The ethereal body is spirit energy.\NIn other words, a bundle of life force.
+Dialogue: 0,0:12:54.49,0:12:56.58,Default,,0,0,0,,It's thought that...
+Dialogue: 0,0:12:56.58,0:13:00.95,Default,,0,0,0,,monsters that eat human flesh absorb\Nspirit energy through the blood and meat...
+Dialogue: 0,0:13:00.95,0:13:03.49,Default,,0,0,0,,and nourish themselves.
+Dialogue: 0,0:13:03.49,0:13:05.79,Default,,0,0,0,,Vampires drink blood,
+Dialogue: 0,0:13:05.79,0:13:11.41,Default,,0,0,0,,but is it really the spirit energy\Nthey absorb with it that they need?
+Dialogue: 0,0:13:11.41,0:13:15.45,Default,,0,0,0,,Yes. But if we're talking\Nnon-physical creatures,
+Dialogue: 0,0:13:15.45,0:13:18.29,Default,,0,0,0,,all they should need\Nis just the spirit energy itself.
+Dialogue: 0,0:13:18.29,0:13:19.54,Default,,0,0,0,,I see.
+Dialogue: 0,0:13:19.54,0:13:24.04,Default,,0,0,0,,So, it wouldn't be crazy to have vampires\Nthat only absorbed spirit energy.
+Dialogue: 0,0:13:24.04,0:13:29.45,Default,,0,0,0,,If Leo lets me examine his ethereal body,\NI should be able to see what was done to him.
+Dialogue: 0,0:13:29.45,0:13:31.24,Default,,0,0,0,,To be honest,
+Dialogue: 0,0:13:31.24,0:13:36.83,Default,,0,0,0,,right from the beginning, I didn't think\Nthese vampire slayings were just bizarre crimes.
+Dialogue: 0,0:13:36.83,0:13:41.04,Default,,0,0,0,,That's what my intuition\Nas an old caster told me.
+Dialogue: 0,0:13:41.04,0:13:43.95,Default,,0,0,0,,It's just that I didn't have\Nany proof until now,
+Dialogue: 0,0:13:43.95,0:13:47.12,Default,,0,0,0,,so I didn't bring the parasites up.
+Dialogue: 0,0:13:47.12,0:13:50.16,Default,,0,0,0,,But because of my reluctance,\NLeo was attacked...
+Dialogue: 0,0:13:50.16,0:13:52.12,Default,,0,0,0,,Go ahead.
+Dialogue: 0,0:13:52.12,0:13:54.49,Default,,0,0,0,,Do it, Mikihiko.
+Dialogue: 0,0:13:54.49,0:13:55.99,Default,,0,0,0,,Are you sure?
+Dialogue: 0,0:13:55.99,0:13:57.04,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:13:57.04,0:13:59.37,Default,,0,0,0,,Investigate all you like!
+Dialogue: 0,0:14:08.49,0:14:11.04,Default,,0,0,0,,Did you find anything?
+Dialogue: 0,0:14:11.04,0:14:13.54,Default,,0,0,0,,Leo, are you...
+Dialogue: 0,0:14:13.54,0:14:15.99,Default,,0,0,0,,really human?
+Dialogue: 0,0:14:15.99,0:14:19.37,Default,,0,0,0,,Hey, that's a fine response.
+Dialogue: 0,0:14:19.37,0:14:24.20,Default,,0,0,0,,I mean, if a normal caster\Nhad this much spirit energy stolen...
+Dialogue: 0,0:14:24.20,0:14:27.33,Default,,0,0,0,,they'd be comatose right now.
+Dialogue: 0,0:14:27.33,0:14:34.45,Default,,0,0,0,,But the fact that you can sit up and talk\Njust goes to show your high level of endurance.
+Dialogue: 0,0:14:34.45,0:14:39.91,Default,,0,0,0,,What can I say?\NMy body's made of strong stuff. So...
+Dialogue: 0,0:14:39.91,0:14:43.24,Default,,0,0,0,,we're saying I lost my strength last night
+Dialogue: 0,0:14:43.24,0:14:47.49,Default,,0,0,0,,because the masked woman\Nleeched my spirit energy?
+Dialogue: 0,0:14:47.49,0:14:49.54,Default,,0,0,0,,I think so.
+Dialogue: 0,0:14:49.54,0:14:50.91,Default,,0,0,0,,But...
+Dialogue: 0,0:14:50.91,0:14:53.54,Default,,0,0,0,,if she could absorb your spirit energy\Njust through touching you alone,
+Dialogue: 0,0:14:53.54,0:14:56.79,Default,,0,0,0,,there should've been no need\Nfor her to steal your blood, too.
+Dialogue: 0,0:14:56.79,0:15:02.70,Default,,0,0,0,,Why did this parasite\Ngo to the trouble of taking blood?
+Dialogue: 0,0:15:09.29,0:15:12.16,Default,,0,0,0,,Will Leo be all right?
+Dialogue: 0,0:15:12.16,0:15:14.12,Default,,0,0,0,,I'm worried.
+Dialogue: 0,0:15:14.12,0:15:17.74,Default,,0,0,0,,I hope he recovers soon.
+Dialogue: 0,0:15:17.74,0:15:19.16,Default,,0,0,0,,Mikihiko...
+Dialogue: 0,0:15:19.95,0:15:27.24,Default,,0,0,0,,I forgot to ask you this before,\Nbut are these parasites really that common?
+Dialogue: 0,0:15:27.24,0:15:30.58,Default,,0,0,0,,No. They appear very rarely.
+Dialogue: 0,0:15:30.58,0:15:36.91,Default,,0,0,0,,But this real demon is responsible\Nfor the vampire murders, right?
+Dialogue: 0,0:15:36.91,0:15:38.41,Default,,0,0,0,,I believe so.
+Dialogue: 0,0:15:38.41,0:15:41.12,Default,,0,0,0,,Do you think it's a coincidence?
+Dialogue: 0,0:15:41.12,0:15:43.74,Default,,0,0,0,,Certainly, historically,\Nthe closer to the modern age you go,
+Dialogue: 0,0:15:43.74,0:15:48.04,Default,,0,0,0,,the frequency of recorded observations\Nof demons decreases.
+Dialogue: 0,0:15:48.04,0:15:53.83,Default,,0,0,0,,It's a stretch to think\Nthese are just random murders.
+Dialogue: 0,0:15:56.66,0:16:01.62,Default,,0,0,0,,Well, I know the truth.
+Dialogue: 0,0:16:01.62,0:16:03.99,Default,,0,0,0,,You're a real trouper.
+Dialogue: 0,0:16:06.24,0:16:09.87,Default,,0,0,0,,A genuine compliment from you...\NI'll take it.
+Dialogue: 0,0:16:12.62,0:16:15.66,Default,,0,0,0,,I gave you a genuine compliment.
+Dialogue: 0,0:16:23.08,0:16:25.29,Default,,0,0,0,,Brother!
+Dialogue: 0,0:16:25.29,0:16:28.74,Default,,0,0,0,,You were listening to that, weren't you?
+Dialogue: 0,0:16:28.74,0:16:31.74,Default,,0,0,0,,It was fascinating.
+Dialogue: 0,0:16:31.74,0:16:38.33,Default,,0,0,0,,So, if Yoshida's second son's hypothesis\Nis right, what are you going to do?
+Dialogue: 0,0:16:38.33,0:16:41.74,Default,,0,0,0,,In a situation like this,\Nit doesn't matter whether he's right or wrong.
+Dialogue: 0,0:16:41.74,0:16:46.20,Default,,0,0,0,,Even if it's only for a short time, anyone\Nwho steps through the Chiba Gate is our pupil.
+Dialogue: 0,0:16:46.20,0:16:50.29,Default,,0,0,0,,And I'm the one who taught\Nthe basics of that technique.
+Dialogue: 0,0:16:50.29,0:16:54.08,Default,,0,0,0,,We're talking my pupil here,\Nso I can't just do nothing!
+Dialogue: 0,0:16:54.08,0:16:56.41,Default,,0,0,0,,Such a cold reason.
+Dialogue: 0,0:16:56.41,0:16:58.62,Default,,0,0,0,,It doesn't need to be anything else.
+Dialogue: 0,0:16:58.62,0:17:01.95,Default,,0,0,0,,I don't know if this vampire\Nis a man or woman,
+Dialogue: 0,0:17:01.95,0:17:04.54,Default,,0,0,0,,but if it wants a fight, I'll give it one!
+Dialogue: 0,0:17:05.62,0:17:08.29,Default,,0,0,0,,{\clip(152,36,176,142)\bord0\shad0.5\fnOpen Sans Light\b1\3c&H000000&\u1\\pos(520,88)\t(0,84,\clip(152,36,892,142)}MAXIMILLIAN DEVICES - TOKYO BRANCH OFFICE
+Dialogue: 0,0:17:09.04,0:17:11.33,Default,,0,0,0,,Report, please.
+Dialogue: 0,0:17:11.33,0:17:13.20,Default,,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:17:13.20,0:17:20.74,Default,,0,0,0,,After cornering Deimos Second,\Nwe used a Caster Jammer to block his CAD.
+Dialogue: 0,0:17:20.74,0:17:26.99,Default,,0,0,0,,But it didn't work on him.
+Dialogue: 0,0:17:26.99,0:17:29.74,Default,,0,0,0,,The Caster Jammer wasn't working?
+Dialogue: 0,0:17:29.74,0:17:32.87,Default,,0,0,0,,No, it operated normally.
+Dialogue: 0,0:17:32.87,0:17:35.29,Default,,0,0,0,,Deimos Second claimed...
+Dialogue: 0,0:17:35.29,0:17:39.87,Default,,0,0,0,,that he didn't need CAD anymore.
+Dialogue: 0,0:17:39.87,0:17:43.79,Default,,0,0,0,,He doesn't need CAD anymore...
+Dialogue: 0,0:17:43.79,0:17:47.74,Default,,0,0,0,,Are you saying\NSergeant Sullivan became psychic?
+Dialogue: 0,0:17:47.74,0:17:49.24,Default,,0,0,0,,Affirmative.
+Dialogue: 0,0:17:49.24,0:17:52.49,Default,,0,0,0,,But his Psionic wave properties\Ndidn't change, right?
+Dialogue: 0,0:17:52.49,0:17:56.66,Default,,0,0,0,,We would've recognized it if it did.
+Dialogue: 0,0:17:56.66,0:17:59.24,Default,,0,0,0,,While I was pursuing Sergeant Sullivan,
+Dialogue: 0,0:17:59.24,0:18:02.74,Default,,0,0,0,,I came into contact with someone\Nwho appeared to be his partner.
+Dialogue: 0,0:18:02.74,0:18:07.04,Default,,0,0,0,,Weren't you able to measure\Nthat person's Psionic wave properties?
+Dialogue: 0,0:18:07.04,0:18:08.87,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:18:08.87,0:18:13.79,Default,,0,0,0,,We were only able to recognize\Nthe Psionic waves of Deimos Second and yours.
+Dialogue: 0,0:18:13.79,0:18:15.66,Default,,0,0,0,,I see.
+Dialogue: 0,0:18:18.62,0:18:25.58,Default,,0,0,0,,Going forth, when we're tracking down a fugitive,\Ntry to refrain from engaging with them.
+Dialogue: 0,0:18:25.58,0:18:28.41,Default,,0,0,0,,I'll deal with that part.
+Dialogue: 0,0:18:28.41,0:18:30.29,Default,,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:18:32.70,0:18:37.33,Default,,0,0,0,,The chasers weren't able to\Nidentify White Mask's Psi-waves.
+Dialogue: 0,0:18:37.33,0:18:38.87,Default,,0,0,0,,Really?
+Dialogue: 0,0:18:38.87,0:18:43.20,Default,,0,0,0,,It seems the fugitives\Nhave all gained various abilities.
+Dialogue: 0,0:18:50.24,0:18:52.87,Default,,0,0,0,,I wish I could just stay like that.
+Dialogue: 0,0:18:52.87,0:18:57.66,Default,,0,0,0,,It's easier to maintain Parade\Nthan hide my magic use.
+Dialogue: 0,0:18:59.87,0:19:01.99,Default,,0,0,0,,Anyway...
+Dialogue: 0,0:19:01.99,0:19:06.20,Default,,0,0,0,,I wonder why they're attacking\NJapanese people.
+Dialogue: 0,0:19:06.20,0:19:08.33,Default,,0,0,0,,Why?
+Dialogue: 0,0:19:08.33,0:19:10.45,Default,,0,0,0,,They're being pursued.
+Dialogue: 0,0:19:10.45,0:19:15.70,Default,,0,0,0,,You'd think they would want\Nto stay underground as much as possible.
+Dialogue: 0,0:19:15.70,0:19:17.83,Default,,0,0,0,,I don't have the answer to that.
+Dialogue: 0,0:19:17.83,0:19:19.20,Default,,0,0,0,,But...
+Dialogue: 0,0:19:19.20,0:19:22.04,Default,,0,0,0,,But what?
+Dialogue: 0,0:19:22.04,0:19:26.04,Default,,0,0,0,,I have a feeling it's related\Nto the strange ability they've gained.
+Dialogue: 0,0:19:26.04,0:19:27.83,Default,,0,0,0,,Strange ability...
+Dialogue: 0,0:19:27.83,0:19:32.70,Default,,0,0,0,,You mean the vampire power,\Nstealing blood without leaving a wound?
+Dialogue: 0,0:19:32.70,0:19:37.04,Default,,0,0,0,,I don't know if "vampire"\Nis the right word, but...
+Dialogue: 0,0:19:43.20,0:19:45.79,Default,,0,0,0,,Lina? I'm going to draw the curtain.
+Dialogue: 0,0:19:47.83,0:19:49.62,Default,,0,0,0,,What are you doing?
+Dialogue: 0,0:19:49.62,0:19:52.29,Default,,0,0,0,,Oh, this is just...
+Dialogue: 0,0:19:52.33,0:19:54.33,Default,,0,0,0,,{\an8\pos(638,186)}"FIRST HIGH SCHOOL EXTRACURRICULAR \NACTIVITIES FEDERATION HEADQUARTERS"
+Dialogue: 0,0:19:54.70,0:19:57.99,Default,,0,0,0,,Now, someone from our school\Nhas fallen victim to the vampire incident.
+Dialogue: 0,0:19:57.99,0:20:01.20,Default,,0,0,0,,It's Leonhard Saijo of Class 1-E.
+Dialogue: 0,0:20:01.20,0:20:03.70,Default,,0,0,0,,Yes, I've heard.
+Dialogue: 0,0:20:03.70,0:20:06.70,Default,,0,0,0,,As far as my family\Nhas been able to determine,
+Dialogue: 0,0:20:06.70,0:20:12.74,Default,,0,0,0,,the vampire has left 24 victims\Nso far including Saijo.
+Dialogue: 0,0:20:12.74,0:20:14.91,Default,,0,0,0,,Three times what the media has reported.
+Dialogue: 0,0:20:14.91,0:20:18.54,Default,,0,0,0,,Were all of them in Tokyo and the suburbs?
+Dialogue: 0,0:20:18.54,0:20:22.87,Default,,0,0,0,,Just the Tokyo metro area\Nand concentrated in the inner city.
+Dialogue: 0,0:20:22.87,0:20:28.70,Default,,0,0,0,,The police aren't aware of all the victims,\Nbut the Saegusa Family is...
+Dialogue: 0,0:20:30.62,0:20:34.70,Default,,0,0,0,,Is one of the victims\Nrelated to your family?
+Dialogue: 0,0:20:34.70,0:20:36.66,Default,,0,0,0,,You're half-right.
+Dialogue: 0,0:20:36.66,0:20:42.58,Default,,0,0,0,,The victims that the police don't know about\Nare all magicians who have helped us.
+Dialogue: 0,0:20:42.58,0:20:49.95,Default,,0,0,0,,Apparently, all the other victims\Nwere either magicians or had magic potential.
+Dialogue: 0,0:20:49.95,0:20:54.41,Default,,0,0,0,,Are you saying the killer is hunting magicians?
+Dialogue: 0,0:20:55.87,0:21:00.08,Default,,0,0,0,,Jumonji, you're scaring me.
+Dialogue: 0,0:21:00.08,0:21:02.24,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:21:02.24,0:21:09.29,Default,,0,0,0,,Anyway, I think we can say\Nthe vampire is targeting magicians.
+Dialogue: 0,0:21:09.29,0:21:12.99,Default,,0,0,0,,If the killer has the ability\Nto harm Saegusa magicians,
+Dialogue: 0,0:21:12.99,0:21:17.04,Default,,0,0,0,,then it's most likely a super soldier\Nor another magician.
+Dialogue: 0,0:21:17.04,0:21:20.99,Default,,0,0,0,,And odds are the killer is a foreigner.
+Dialogue: 0,0:21:20.99,0:21:24.08,Default,,0,0,0,,Have any suspicious\Nforeigners entered the country
+Dialogue: 0,0:21:24.08,0:21:25.87,Default,,0,0,0,,around the time the killings started?
+Dialogue: 0,0:21:25.87,0:21:27.58,Default,,0,0,0,,Good question.
+Dialogue: 0,0:21:27.58,0:21:34.74,Default,,0,0,0,,There are quite a few overseas magician students\Nand magic technicians from the USNA in Japan.
+Dialogue: 0,0:21:34.74,0:21:39.58,Default,,0,0,0,,We have one exchange student\Nhere at our school, too, but...
+Dialogue: 0,0:21:39.58,0:21:43.70,Default,,0,0,0,,do you think she's suspicious, Jumonji?
+Dialogue: 0,0:21:43.70,0:21:47.29,Default,,0,0,0,,Suspicious, yes, but not the killer.
+Dialogue: 0,0:21:47.29,0:21:49.99,Default,,0,0,0,,I have a feeling\Nshe's got something to do with it,
+Dialogue: 0,0:21:49.99,0:21:53.41,Default,,0,0,0,,but for now, I think\Nwe can put her on the back burner.
+Dialogue: 0,0:21:56.08,0:21:58.66,Default,,0,0,0,,Jumonji, I have a message from my father,
+Dialogue: 0,0:21:58.66,0:22:04.91,Default,,0,0,0,,or rather, Koichi Saegusa,\Nthe head of the Saegusa Family.
+Dialogue: 0,0:22:04.91,0:22:09.37,Default,,0,0,0,,The Saegusa Family wishes to have\Nan alliance with the Jumonji Family.
+Dialogue: 0,0:22:13.29,0:22:15.20,Default,,0,0,0,,After having our discussion,
+Dialogue: 0,0:22:15.20,0:22:20.08,Default,,0,0,0,,I realized that this is not a situation\Nthe Jumonji Family can ignore, either.
+Dialogue: 0,0:22:20.08,0:22:21.49,Default,,0,0,0,,We will cooperate with you.
+Dialogue: 0,0:23:48.49,0:23:52.08,Default,,0,0,0,,{\an8}"VISITOR ARC III"
